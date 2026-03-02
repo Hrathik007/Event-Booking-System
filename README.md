@@ -2,6 +2,22 @@
 
 A comprehensive event booking platform with AI-powered features, secure payments, and role-based dashboards.
 
+## 🎬 Demo Video
+
+Watch the complete walkthrough of all features:
+
+**[📹 View Demo Video →](https://youtu.be/YOUR_VIDEO_ID)**
+
+<!-- Replace YOUR_VIDEO_ID with actual YouTube link -->
+
+*Video demonstrates: User flow, Organizer dashboard, Admin panel, AI recommendations, Combo passes, Payment integration, QR codes, and all 50+ features.*
+
+> **To add your video:**  
+> 1. Upload the recorded demo to YouTube (can be unlisted)  
+> 2. Update this README with the YouTube link  
+> OR  
+> 3. Add to GitHub Releases (supports files >100MB)
+
 ## ✨ Key Features
 
 - 🎟️ **Multiple Ticket Types** - General, VIP, Premium, Early Bird, Student
