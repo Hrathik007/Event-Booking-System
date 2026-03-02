@@ -20,10 +20,9 @@ services:
     healthCheckPath: /health
 
   # Frontend (Static Site)
-  - type: web
+  - type: static
     name: event-booking-client
-    runtime: node
-    env: node
+    env: static
     region: oregon
     plan: free
     buildCommand: cd client && npm install && npm run build
